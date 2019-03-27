@@ -3,7 +3,7 @@ using namespace std;
 int main(){
 	int i,b,key, j,n,arr[100];
 
-	cout<<"masukkan jumlah angka ";
+	cout<<"masukkan jumlah ";
     cin>>n;
     for(int t=0;t<n;t++){
 
